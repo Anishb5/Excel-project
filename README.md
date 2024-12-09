@@ -1,4 +1,4 @@
-this project is about the overall coffeebean sales analysis and converting the dataset into meaningful visualisation.
+This project is about the overall coffeebean sales analysis and converting the dataset into meaningful visualisation.
 Funtions used such as:
 1.xlookup
 2.index match
